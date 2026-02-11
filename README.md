@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iamholak  
-- 👀 I’m interested in PROGRAMMING || ANIMATION || GRAPHICS || ENGINEERING  
+- 👀 I’m interested in PROGRAMMING || ANIMATION || GRAPHICS || CONTENT || ENGINEERING  
 - 🌱 I’m currently learning React, Python, Java, and AI vibe coding  
 - 💞️ I’m looking to collaborate on open-source projects, web & mobile apps, AI tools, and creative tech ideas  
 - 📫 How to reach me: GitHub (@Iamholak) | X/Twitter (@0xholak) | Linkedin (kasali Olawale Habeeb)
